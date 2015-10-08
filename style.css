@@ -1,0 +1,126 @@
+body {
+	font-family: 'Quattrocento', serif;
+	padding:	1px;
+	line-height: 1.5;
+	color: white;
+	background: #65beb4;
+	padding: 50px;
+	letter-spacing: .5px;
+	display: block;
+	line-height: 20px;
+	margin-right: 350px;
+	margin-left:50px;
+
+}
+
+
+footer{
+	float: top;
+	padding-top: 50px;
+	margin-left: -25px
+}
+
+a:link {
+   color: #dd5b43;
+   font-family: 'Oswald', sans-serif; 
+   font-weight: lighter;
+   letter-spacing: 1px;
+}
+
+a:visited {
+   color: #dd5b43;
+  font-family: 'Oswald', sans-serif; 
+  font-weight: lighter;
+  letter-spacing: 1px;
+}
+
+a:hover {
+	color: #65beb4;
+	font-family: 'Oswald', sans-serif; 
+	font-weight: lighter;
+	letter-spacing: 1px;
+}
+
+a:active {
+	color: #65beb4;
+	font-family: 'Oswald', sans-serif; 
+ 	font-weight: lighter;
+ 	letter-spacing: 1px;
+}
+
+div {
+	background-color: #fff;
+	height: 20px;
+	width: 120px;
+	text-align: center;
+	padding: 10px;
+	float: left;
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Quattrocento', serif;}
+
+nav {
+	font-family: 'Quattrocento', serif;
+	font-weight: bold;
+	font-size: 20px;
+	color: #65beb4;
+}
+
+hr{
+	color: white;
+
+}	
+
+p {
+	font-family: 'Quattrocento', serif;  
+	font-weight: lighter;
+	color: white;
+	line-height: 20px;
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif; 
+	font-size: 4em;
+	font-weight: bold;
+	color: white;
+	padding: opx;
+	letter-spacing: 1px;
+	margin: 0px;
+	line-height: 70px;
+}
+
+h2 {
+	font-family: 'Oswald', sans-serif; 
+	font-size: 2em;
+	color: white;
+	margin-bottom: 1px
+}
+
+h3 {
+	font-family: 'Quattrocento', serif; 
+	color: white;
+}
+
+h4 {
+	font-family: 'Quattrocento', serif; 
+	font-weight: medium;
+	color: white;
+}
+
+h5 {
+	font-family: 'Oswald', sans-serif; 
+	font-size: 1.5em;
+	font-weight: lighter;
+	color: white;
+	letter-spacing: .5px;
+	line-height: 0px;
+
+h6 {
+	font-family: 'Oswald', sans-serif; 
+	font-weight: lighter;
+	color: white;
+	letter-spacing: .25px;
+	line-height: 2px;
+
